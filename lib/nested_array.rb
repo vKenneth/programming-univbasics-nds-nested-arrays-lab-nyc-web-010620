@@ -36,7 +36,13 @@ def sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-  
+  organic_produce_1 = ["Strawberries"] #row 1
+organic_produce_2 = ["Potatoes"] # row 2
+organic_produce_3 = ["Grapes"] # row 3
+organic_produce_4 = ["Avocadoes"] #row 4
+organic_produce_5 = ["Asparagus"] # row 5
+
+
 end
 
 def matrix_update(matrix, row, column, new_value)
